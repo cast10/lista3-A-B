@@ -1,9 +1,8 @@
-package Ex5;
+package src.lista3A.Ex5;
 
 /////Faça um Programa que receba um número e exiba o dia correspondente da semana.
 // (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer a mensagem “valor inválido//
 
-import java.lang.invoke.SwitchPoint;
 import java.util.Scanner;
 
 public class Resposta5 {

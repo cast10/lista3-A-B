@@ -1,7 +1,6 @@
-package Ex2;
+package src.lista3A.Ex2;
 
 import java.util.Scanner;
-import java.util.concurrent.LinkedTransferQueue;
 
 public class Resposta2 {
     public static void main(String[] args){

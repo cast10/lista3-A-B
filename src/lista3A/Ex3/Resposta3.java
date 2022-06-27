@@ -1,4 +1,4 @@
-package Ex3;
+package src.lista3A.Ex3;
 
 
     ///Faça um programa que receba duas notas parciais de um aluno.

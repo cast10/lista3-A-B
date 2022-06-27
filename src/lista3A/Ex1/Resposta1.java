@@ -1,4 +1,4 @@
-package Ex1;
+package src.lista3A.Ex1;
 
 //Faça um programa que receba dois números e imprima o maior deles///
 

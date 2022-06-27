@@ -1,4 +1,4 @@
-package Ex4;
+package src.lista3A.Ex4;
 
 //Os gestores da Zup resolveram dar um aumento de salário aos seus colaboradores
 // e lhe contrataram para desenvolver o programa que calcula os reajustes.

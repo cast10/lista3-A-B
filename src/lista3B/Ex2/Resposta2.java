@@ -12,7 +12,7 @@ public class Resposta2 {
         int entrada = sc.nextInt();
 
         int[] gaveta = new int[entrada];
-        double soma = 0;
+
         double total = 0;
         for (int i = 0; i < entrada; i++){
             System.out.print("Digitar um numero :" );
